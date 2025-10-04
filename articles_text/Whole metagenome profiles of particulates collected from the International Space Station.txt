@@ -1,0 +1,354 @@
+Erratum to: Whole metagenome profiles of particulates collected from the International Space Station - PMC
+        
+      Skip to main content
+    
+                        An official website of the United States government
+                    
+Here's how you know
+Here's how you know
+Official websites use .gov
+                            A
+                            
+.gov
+ website belongs to an official
+                            government organization in the United States.
+                        
+Secure .gov websites use HTTPS
+                            A 
+lock
+ (
+                            
+Lock
+                                    Locked padlock icon
+                                    
+) or 
+https://
+ means you've safely
+                                connected to the .gov website. Share sensitive
+                                information only on official, secure websites.
+                            
+                            Search
+                        
+        
+    
+        
+            
+Log in
+        
+        
+            Dashboard
+        
+        
+    
+        
+        
+            Publications
+        
+        
+    
+        
+        
+            Account settings
+        
+        
+    
+    
+        
+        Log out
+        
+    
+        
+            
+                        Search…
+                    
+                            Search NCBI
+                        
+            Primary site navigation
+        
+                    Search
+                
+                    Logged in as:
+                    
+        
+        
+            Dashboard
+        
+        
+    
+        
+        
+            Publications
+        
+        
+    
+        
+        
+            Account settings
+        
+        
+    
+    
+        
+        Log in
+        
+    
+        
+            
+Search PMC Full-Text Archive
+Search in PMC
+                                Journal List
+                            
+                                User Guide
+                            
+PERMALINK
+Copy
+    As a library, NLM provides access to scientific literature. Inclusion in an NLM database does not imply endorsement of, or agreement with,
+    the contents by NLM or the National Institutes of Health.
+    Learn more:
+    
+PMC Disclaimer
+    |
+    
+        PMC Copyright Notice
+    
+Microbiome
+. 2017 Sep 1;5:111. doi: 
+10.1186/s40168-017-0330-2
+Search in PMC
+Search in PubMed
+View in NLM Catalog
+Add to search
+Erratum to: Whole metagenome profiles of particulates collected from the International Space Station
+Nicholas A Be
+Nicholas A Be
+1
+Physical and Life Sciences Directorate, Lawrence Livermore NationalLaboratory, Livermore, CA USA 
+Find articles by 
+Nicholas A Be
+1
+, 
+Aram Avila-Herrera
+Aram Avila-Herrera
+2
+Computation Directorate, Lawrence Livermore National Laboratory, Livermore, CA USA 
+Find articles by 
+Aram Avila-Herrera
+2
+, 
+Jonathan E Allen
+Jonathan E Allen
+2
+Computation Directorate, Lawrence Livermore National Laboratory, Livermore, CA USA 
+Find articles by 
+Jonathan E Allen
+2
+, 
+Nitin Singh
+Nitin Singh
+3
+Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, M/S 89-2, 4800 Oak Grove Dr, Pasadena, CA 91109 USA 
+Find articles by 
+Nitin Singh
+3
+, 
+Aleksandra Checinska Sielaff
+Aleksandra Checinska Sielaff
+3
+Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, M/S 89-2, 4800 Oak Grove Dr, Pasadena, CA 91109 USA 
+4
+Present Address: Department of Ecology, Evolution and Organismal Biology, Iowa State University, Ames, IA USA 
+Find articles by 
+Aleksandra Checinska Sielaff
+3,
+4
+, 
+Crystal Jaing
+Crystal Jaing
+1
+Physical and Life Sciences Directorate, Lawrence Livermore NationalLaboratory, Livermore, CA USA 
+Find articles by 
+Crystal Jaing
+1
+, 
+Kasthuri Venkateswaran
+Kasthuri Venkateswaran
+3
+Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, M/S 89-2, 4800 Oak Grove Dr, Pasadena, CA 91109 USA 
+Find articles by 
+Kasthuri Venkateswaran
+3,
+✉
+Author information
+Article notes
+Copyright and License information
+1
+Physical and Life Sciences Directorate, Lawrence Livermore NationalLaboratory, Livermore, CA USA 
+2
+Computation Directorate, Lawrence Livermore National Laboratory, Livermore, CA USA 
+3
+Biotechnology and Planetary Protection Group, Jet Propulsion Laboratory, California Institute of Technology, M/S 89-2, 4800 Oak Grove Dr, Pasadena, CA 91109 USA 
+4
+Present Address: Department of Ecology, Evolution and Organismal Biology, Iowa State University, Ames, IA USA 
+✉
+Corresponding author.
+Received 2017 Aug 23; Accepted 2017 Aug 23; Collection date 2017.
+© The Author(s). 2017
+Open Access
+This article is distributed under the terms of the Creative Commons Attribution 4.0 International License (
+http://creativecommons.org/licenses/by/4.0/
+), which permits unrestricted use, distribution, and reproduction in any medium, provided you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons license, and indicate if changes were made. The Creative Commons Public Domain Dedication waiver (
+http://creativecommons.org/publicdomain/zero/1.0/
+) applies to the data made available in this article, unless otherwise stated.
+PMC Copyright notice
+PMCID: PMC5580210  PMID: 
+28863784
+This corrects the article "
+Whole metagenome profiles of particulates collected from the International Space Station
+", 81.
+Erratum
+Following publication of the original article [
+1
+], the authors reported that the X-axis label was missing from Fig. 
+4
+. The new Fig. 
+4
+ is attached.
+Fig. 4.
+Open in a new tab
+Microbial gene pathways observed in the whole metagenomes of ISS and SAF samples. Reads matching microbial gene targets above an identity threshold of 0.9 were assigned to KEGG orthologies. KO number was used to assign a gene function category, shown along the 
+vertical axis
+. Read abundance is graphically represented on a square-root scale. Absolute read counts are shown adjacent to each corresponding 
+circle
+Footnotes
+The online version of the original article can be found under doi:10.1186/s40168-017-0292-4
+Reference
+1.
+Be NA, Avila-Herrera A, Allen JE, Singh N, Sielaff AC, Jaing C, Venkateswaran K. Microbiome. 2017;5:81. doi:10.1186/s40168-017-0292-4.
+ [
+DOI
+] [
+PMC free article
+] [
+PubMed
+]
+Articles from Microbiome are provided here courtesy of 
+BMC
+ACTIONS
+View on publisher site
+PDF (375.7 KB)
+Cite
+Collections
+Permalink
+PERMALINK
+Copy
+RESOURCES
+                            Similar articles
+                        
+                             Cited by other articles
+                        
+                                 Links to NCBI Databases
+                            
+Cite
+Copy
+Download .nbib
+.nbib
+Format:
+        AMA
+      
+        APA
+      
+        MLA
+      
+        NLM
+      
+Add to Collections
+Create a new collection
+Add to an existing collection
+                Name your collection
+               
+*
+                Choose a collection
+              
+                Unable to load your collection due to an error
+Please try again
+          Add
+        
+          Cancel
+        
+                Follow NCBI
+            
+NCBI on X (formerly known as Twitter)
+NCBI on Facebook
+NCBI on LinkedIn
+NCBI on GitHub
+NCBI RSS feed
+                            Connect with NLM
+                        
+NLM on X (formerly known as Twitter)
+NLM on Facebook
+NLM on YouTube
+National Library of Medicine
+            
+ 8600 Rockville Pike
+ Bethesda, MD 20894
+        
+        
+            Web Policies
+        
+        
+    
+        
+        
+            FOIA
+        
+        
+    
+        
+        
+            HHS Vulnerability Disclosure
+        
+        
+    
+        
+        
+            Help
+        
+        
+    
+        
+        
+            Accessibility
+        
+        
+    
+        
+        
+            Careers
+        
+        
+    
+        
+        
+            NLM
+        
+        
+    
+        
+        
+            NIH
+        
+        
+    
+        
+        
+            HHS
+        
+        
+    
+        
+        
+            USA.gov
+        
+        
+    
+Back to Top
